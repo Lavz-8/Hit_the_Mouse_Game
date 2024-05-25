@@ -14,7 +14,7 @@ This project implements a fun and engaging game called "Hit the Mouse" using Pyt
 1. **Clone this repository to your local machine:**
    
    ```bash
-    git clone https://github.com/yourusername/hit-the-mouse-game.git
+    git clone https://github.com/Lavz-8/hit-the-mouse-game.git
     ```
 
 2. **Navigate to the project directory:**
@@ -41,6 +41,9 @@ Execute the hit_the_mouse.py file using Python to start the game.
 
 Click on the mice as they appear on the screen to earn points.
 Be quick and precise to maximize your score!
+
+## Credits
+This game was created by **Lavanya Varadharajan**.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.
