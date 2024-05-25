@@ -8,7 +8,7 @@ This project implements a fun and engaging game called "Hit the Mouse" using Pyt
 - **Engaging Environment**: Enjoy a visually appealing background and vibrant mouse sprites that immerse you in the game.
 - **Score Tracking**: Keep track of your score as you hit mice, and compete for high scores.
 - **Intuitive Controls**: Simply click on the mice using your mouse cursor whenever they appear on the screen.
-- 
+  
 ## Installation
 
 1. **Clone this repository to your local machine:**
